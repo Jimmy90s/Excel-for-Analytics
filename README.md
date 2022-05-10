@@ -1,6 +1,7 @@
 # Excel-for-Analytics
 
 Excel Sales Analytics Project 
+
 Skills Used: Excel, Power Query, Pivot Tables, Tableau 
 
 
